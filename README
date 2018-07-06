@@ -1,0 +1,2 @@
+The project allow you to read a line ending with a newline character from a file descriptor.
+It can manage with multiply files.
